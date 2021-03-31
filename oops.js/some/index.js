@@ -17,18 +17,24 @@
 //         console.log(row);
 //     }
 // } 
- for(var i = 1; i <= 10; i++)
- {
-    // console.log(Table(i));
-     console.log("Table(i)");
-}
+//  for(var i = 1; i <= 10; i++)
+//  {
+//      consolelogTable(i);
+//      console.log("");
+// }
 
-function console.log(Table(n));
+// function consolelogTable(n)
+// {
+//     for(var i = 1; i <= 10; i++)
+//     {
+
+//         var row = 86 + " * " + i + " = " + 86 * i;
+//         console.log(row);
+//     }
+// }
+for(var i = 1; i <= 10; i++)
 {
-    for(var i = 1; i <= 10; i++)
-    {
 
-        var row = 86 + " * " + i + " = " + 86 * i;
-        console.log(row);
-    }
+    var row = 86 + " * " + i + " = " + 86 * i;
+    console.log(row);
 }
