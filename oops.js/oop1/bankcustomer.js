@@ -16,7 +16,8 @@ let c1 = new Customer(
   101,
   "Kavitha",
   24,
-  new Address(5, "RJ Garden", "Bangalore"));
+  new Address(5, "RJ Garden", "Bangalore")
+);
 
-console.log(c1.acc_Name);
+console.log(c1);
 c1.getCity();
