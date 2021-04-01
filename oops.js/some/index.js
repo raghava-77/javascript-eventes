@@ -20,7 +20,7 @@
 //  for(var i = 1; i <= 10; i++)
 //  {
 //      consolelogTable(i);
-//      console.log("");
+//      console.log("");ss
 // }
 
 // function consolelogTable(n)
